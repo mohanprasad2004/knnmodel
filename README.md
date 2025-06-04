@@ -122,15 +122,11 @@ Dataset: MAGIC Gamma Telescope Data (UCI)
 Simulation Tool: CORSIKA
 
 🔗 Connect with Me
-If you're a recruiter, collaborator, or fellow learner — feel free to reach out!
-
 📧 mohanprasad.23BCE11026@vitbhopal.ac.in
 
 ____________________________________________________________________________________________________________________________
 
-Absolutely, here's a clean, professional, and well-structured version of the **Dataset Description** section you can copy-paste directly into your GitHub `README.md`:
 
----
 
 ## 📄 Dataset Description
 
